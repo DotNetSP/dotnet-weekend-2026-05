@@ -25,7 +25,7 @@ _# Desacoplando o Legado: Como modernizar sua arquitetura com .NET + Azure SQL C
 
 Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias e tópicos abordados: **Grafana, Azure SQL, Microsoft Azure, Grafana Loki, Prometheus, Azure Monitor, Application Insights...**
+Tecnologias e tópicos abordados: **Event Streaming, .NET, C#, ASP.NET Core, Azure SQL, Microsoft Azure...**
 
 _# Pause. Persiste. Retoma: pipelines de IA Duráveis com Microsoft Agent Framework!_
 
