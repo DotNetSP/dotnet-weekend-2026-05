@@ -37,7 +37,7 @@ _# Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribu
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
-Tecnologias e tópicos abordados: **Grafana k6, Testes de Carga, Performance em Aplicações, GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Azure Repos, .NET 10, C#, ASP.NET Core, Minimal APIs,Docker, Kubernetes, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, Windows, Linux, macOS, xk6, MCP, Apache Kafka, PostgreSQL, SQL Server...**
+Tecnologias e tópicos abordados: **Observabilidade, Logs, Métricas, Traces, Microservices, Aplicações Distribuídas, OpenTelemetry, Grafana, Tempo, Prometheus, Loki, Alloy ..., , Node.js, Java, Apache Camel ----------- Grafana k6, Testes de Carga, Performance em Aplicações, GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Azure Repos, .NET 10, C#, ASP.NET Core, Minimal APIs,Docker, Kubernetes, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, Windows, Linux, macOS, xk6, MCP, Apache Kafka, PostgreSQL, SQL Server...**
 
 
 Participantes:
