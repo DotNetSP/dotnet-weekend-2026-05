@@ -15,17 +15,11 @@ Número de participantes: **25 pessoas**
 
 Apresentações/talks que aconteceram durante o evento:
 
-_# GitHub Agentic Workflows_
+_# Modernizando Aplicações com Event-Driven_
 
-Palestrante: **Vinicius Moura (Microsoft MVP)**
+Palestrante: **Lucas Massena (Cloud Solutions Architect)**
 
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Microsoft Azure, Azure Container Apps...**
-
-_# Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions_
-
-Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
-
-Tecnologias e tópicos abordados: **Grafana k6, Testes de Carga, Performance em Aplicações, GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Azure Repos, .NET 10, C#, ASP.NET Core, Minimal APIs,Docker, Kubernetes, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, Windows, Linux, macOS, xk6, MCP, Apache Kafka, PostgreSQL, SQL Server...**
+Tecnologias e tópicos abordados: **Event Streaming, Mensageria, Azure Event Bus, Azure Service Bus, ...**
 
 _# Observabilidade de Verdade: monitorando um Ecossistema Azure + SQL Server com Grafana_
 
@@ -33,7 +27,18 @@ Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
 Tecnologias e tópicos abordados: **Grafana, Azure SQL, Microsoft Azure, Grafana Loki, Prometheus, Azure Monitor, Application Insights...**
 
-_# Painel: DevOps no mundo real -> automações, nuvem, ferramentas, boas práticas, o uso de IA..._
+_# Pause. Persiste. Retoma: pipelines de IA Duráveis com Microsoft Agent Framework!_
+
+Palestrante: **Carlos Machel (Microsoft MVP)**
+
+Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Microsoft Agent Framework, Microsoft Foundry, Inteligência Artificial, MCP, LLMs, Agents...**
+
+_# Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions_
+
+Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
+
+Tecnologias e tópicos abordados: **Grafana k6, Testes de Carga, Performance em Aplicações, GitHub, GitHub Actions, Azure DevOps, Azure Pipelines, Azure Repos, .NET 10, C#, ASP.NET Core, Minimal APIs,Docker, Kubernetes, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, Windows, Linux, macOS, xk6, MCP, Apache Kafka, PostgreSQL, SQL Server...**
+
 
 Participantes:
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
