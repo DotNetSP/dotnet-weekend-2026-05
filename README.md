@@ -19,9 +19,9 @@ _# Modernizando Aplicações com Event-Driven_
 
 Palestrante: **Lucas Massena (Cloud Solutions Architect)**
 
-Tecnologias e tópicos abordados: **Event Streaming, Mensageria, Azure Event Bus, Azure Service Bus, ...**
+Tecnologias e tópicos abordados: **Event Streaming, Mensageria, Azure Event Bus, Azure Service Bus, .NET, Azure Functions, Application Insights, Azure Monitor, Microservices...**
 
-_# Observabilidade de Verdade: monitorando um Ecossistema Azure + SQL Server com Grafana_
+_# Desacoplando o Legado: Como modernizar sua arquitetura com .NET + Azure SQL Change Event Streaming_
 
 Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
