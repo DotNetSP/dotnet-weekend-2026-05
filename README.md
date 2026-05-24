@@ -1,4 +1,4 @@
-# dotnet-weekend-2026-05
+# .NET Weekend 2026: C#, ASP.NET, Intel. Artificial, Nuvem...
 Fotos e informações gerais sobre o evento ".NET Weekend", realizado na cidade de São Paulo-SP.
 
 Data: **16/05/2026 (sábado)**
@@ -33,7 +33,7 @@ Palestrante: **Carlos Machel (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Microsoft Agent Framework, Microsoft Foundry, Inteligência Artificial, MCP, LLMs, Agents...**
 
-_# Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions_
+_# Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks!_
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
