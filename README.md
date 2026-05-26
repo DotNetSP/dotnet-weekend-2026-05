@@ -51,6 +51,6 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ---
 
-![Banner do evento](img/banner-devops-wknd-2026-02-sp.png)
+![Banner do evento](img/banner-dotnet-weekend-2026-05.png)
 
 ![Final do evento](img/geral-02.jpeg)
