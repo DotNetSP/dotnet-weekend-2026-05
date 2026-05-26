@@ -65,4 +65,8 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ![Carlos Machel palestrando 2](img/machel-05.jpeg)
 
+![Renato palestrando 1](img/renato-05.jpeg)
+
+![Renato palestrando 2](img/renato-19.jpeg)
+
 ![Final do evento](img/geral-02.jpeg)
