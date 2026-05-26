@@ -53,4 +53,8 @@ Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco 
 
 ![Banner do evento](img/banner-dotnet-weekend-2026-05.png)
 
+![Lucas palestrando 1](img/lucas-01.jpeg)
+
+![Lucas palestrando 2](img/lucas-07.jpeg)
+
 ![Final do evento](img/geral-02.jpeg)
